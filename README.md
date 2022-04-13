@@ -1,2 +1,2 @@
 # Hi
-I am  a software engineer.  I am open to everything.
+I am  a software engineer.
