@@ -10,7 +10,7 @@ Full Stack Efficient Developer with excellent skills, experienced with a variety
 *   ✉️  You can contact me at [bagirasostene@gmail.com](mailto:bagirasostene@gmail.com)
 *   💼   Working as opensource developer and freelancer .
 *   🚀  I'm currently working on
-*   🧠  I'm learning TDD with nestJS
+*   🧠  I'm learning TDD
 *   ⚡ Fun fact **Doing something**
 
 ### Skills 
